@@ -46,31 +46,31 @@ The dataset contains customer information such as:
 
 ### 1. Age Distribution (Histogram)
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](https://github.com/akshata211999-cell/Shopping-_-Python/blob/main/age_distribution.png)
 
 ---
 
 ### 2. Category-wise Sales (Bar Chart)
 
-![Category Sales](images/category_sales.png)
+![Category Sales](https://github.com/akshata211999-cell/Shopping-_-Python/blob/main/category_sales.png)
 
 ---
 
 ### 3. Season-wise Sales (Bar Chart)
 
-![Season Sales](images/season_sales.png)
+![Season Sales](https://github.com/akshata211999-cell/Shopping-_-Python/blob/main/season_sales.png)
 
 ---
 
 ### 4. Average Purchase Amount by Season (Line Chart)
 
-![Line Chart](images/line_chart.png)
+![Line Chart](https://github.com/akshata211999-cell/Shopping-_-Python/blob/main/line_chart.png)
 
 ---
 
 ### 5. Correlation Heat Map
 
-![Heat Map](images/heatmap.png)
+![Heat Map](https://github.com/akshata211999-cell/Shopping-_-Python/blob/main/heatmap.png)
 
 ---
 
